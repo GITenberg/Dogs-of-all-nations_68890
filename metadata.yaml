@@ -1,11 +1,16 @@
 _repo: Dogs-of-all-nations_68890
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68890-h/images/cover.jpg
 creator:
   author:
     agent_name: Mason, W. E.
     gutenberg_agent_id: '55001'
     url: http://www.gutenberg.org/2009/agents/55001
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68890#Dogs-of-all-nations
 gutenberg_issued: '2022-09-01'
 identifiers:
   gutenberg: '68890'
